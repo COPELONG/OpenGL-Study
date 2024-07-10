@@ -1,0 +1,138 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "wrapper",
+					"jsonFile" : "directory-wrapper-Debug-230ceb64303127ee682a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "wrapper",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "application",
+					"jsonFile" : "directory-application-Debug-42f45a6354a6cfac8278.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "application",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "glframework",
+					"jsonFile" : "directory-glframework-Debug-03d90da69caf02abf969.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "glframework",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "OpenGL_Lecture",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "app::@8badf0d542dc2e21c899",
+					"jsonFile" : "target-app-Debug-2fbe35fc5925fdf7e97c.json",
+					"name" : "app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "fw::@60be4de9c07dfc5bbca6",
+					"jsonFile" : "target-fw-Debug-1d198479de481e85e006.json",
+					"name" : "fw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "openglStudy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-openglStudy-Debug-5a4899c8821bb728da9f.json",
+					"name" : "openglStudy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "wrapper::@cfb3dd9ac32c2b8e43a8",
+					"jsonFile" : "target-wrapper-Debug-26db3c2f5bbdd9cb8478.json",
+					"name" : "wrapper",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/51644/Desktop/Voice/OpenGL/3.\u7eb9\u7406\u4e0e\u91c7\u6837/19_OpenGL_Texture-Exercise-2/out/build/x64-Debug",
+		"source" : "C:/Users/51644/Desktop/Voice/OpenGL/3.\u7eb9\u7406\u4e0e\u91c7\u6837/19_OpenGL_Texture-Exercise-2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

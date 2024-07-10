@@ -1,0 +1,9 @@
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/CMakeFiles/openglStudy.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/wrapper/CMakeFiles/wrapper.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/wrapper/CMakeFiles/edit_cache.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/wrapper/CMakeFiles/rebuild_cache.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/application/CMakeFiles/app.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/application/CMakeFiles/edit_cache.dir
+C:/Users/51644/Desktop/Voice/OpenGL/基础opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug/application/CMakeFiles/rebuild_cache.dir

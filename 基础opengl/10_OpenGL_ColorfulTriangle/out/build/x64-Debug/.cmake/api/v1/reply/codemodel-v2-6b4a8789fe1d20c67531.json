@@ -1,0 +1,113 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "wrapper",
+					"jsonFile" : "directory-wrapper-Debug-230ceb64303127ee682a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "wrapper",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "application",
+					"jsonFile" : "directory-application-Debug-42f45a6354a6cfac8278.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "application",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "OpenGL_Lecture",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "app::@8badf0d542dc2e21c899",
+					"jsonFile" : "target-app-Debug-a94b59f6cc8b2da6b2e8.json",
+					"name" : "app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "openglStudy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-openglStudy-Debug-9a555ff2756ec337ad36.json",
+					"name" : "openglStudy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "wrapper::@cfb3dd9ac32c2b8e43a8",
+					"jsonFile" : "target-wrapper-Debug-db5f6413eeffed810d0b.json",
+					"name" : "wrapper",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/51644/Desktop/Voice/OpenGL/\u57fa\u7840opengl/10_OpenGL_ColorfulTriangle/out/build/x64-Debug",
+		"source" : "C:/Users/51644/Desktop/Voice/OpenGL/\u57fa\u7840opengl/10_OpenGL_ColorfulTriangle"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
